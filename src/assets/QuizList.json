@@ -1,0 +1,127 @@
+{
+    "QuizList" : [
+        {
+            "id" : 1,
+            "question" : "HTML의 의미를 보기에서 고르세요!",
+            "answer": "Hyper Text Markup Language",
+            "view" : {
+                "number1" : "Hyperlinks and Text Markup Language",
+                "number2" : "Home Tool Markup Language",
+                "number3" : "Hyper Text Markup Language",
+                "number4" : "Hyperlinks Tool Markup Language"
+            },
+            "type": "html",
+            "hint": "뉴진스의 하입보이요"
+        },
+        {
+            "id" : 2,
+            "question" : "태그요소 p의 display 속성으로 고르세요!",
+            "answer": "block",
+            "view" : {
+                "number1" : "block",
+                "number2" : "inline",
+                "number3" : "inline-block",
+                "number4" : "flex"
+            },
+            "type": "html",
+            "hint": "이걸 모른다고?"
+        },
+        {
+            "id" : 3,
+            "question" : "position의 기본값을 고르세요!",
+            "answer": "static",
+            "view" : {
+                "number1" : "fixed",
+                "number2" : "relative",
+                "number3" : "absolut",
+                "number4" : "static"
+            },
+            "type": "html",
+            "hint": "**** 요소는 HTML 문서 상에서 원래 있어야하는 위치에 배치하게 됨"
+        },
+        {
+            "id" : 4,
+            "question" : "이미지 태그에서 웹표준을 위해 반드시 작성해야 하는 속성을 고르세요",
+            "answer": "alt",
+            "view" : {
+                "number1" : "title",
+                "number2" : "alt",
+                "number3" : "type",
+                "number4" : "for"
+            },
+            "type": "html",
+            "hint": "키보드"
+        },
+        {
+            "id" : 5,
+            "question" : "CSS의 의미를 보기에서 고르세요!",
+            "answer": "Cascading Style Sheets",
+            "view" : {
+                "number1" : "Cascading Style Sheets",
+                "number2" : "Computer Style Sheets",
+                "number3" : "Creative Style Sheets",
+                "number4" : "Colorful Style Sheets"
+            },
+            "type": "css",
+            "hint": "폭포가 되어 떨어지다"
+        },
+        {
+            "id" : 6,
+            "question" : "CSS를 활용해 배경색을 변경하고자 한다 올바른 속성은?",
+            "answer": "background-color",
+            "view" : {
+                "number1" : "background-color",
+                "number2" : "backgroundcolor",
+                "number3" : "bgcolor",
+                "number4" : "backcolor"
+            },
+            "type": "css",
+            "hint": "배경-색 속성을 사용한다."
+        },
+        {
+            "id" : 7,
+            "question" : "HTML 내 자바스크립트 파일을 링크해서 사용하고자 한다. 올바른 방법은?",
+            "answer": "<script src='sctipt.js'>",
+            "view" : {
+                "number1" : "<script src='sctipt.js'>",
+                "number2" : "<script href='sctipt.js'>",
+                "number3" : "<script name='sctipt.js'>",
+                "number4" : "<script type='sctipt.js'>"
+            },
+            "type": "js",
+            "hint": "소스"
+        },
+        {
+            "id" : 8,
+            "question" : "경고창을 띄우고자 한다. 올바른 방법은?",
+            "answer": "alert('메세지')",
+            "view" : {
+                "number1" : "alert('메세지')",
+                "number2" : "msgBoc('메세지')",
+                "number3" : "msg('메세지')",
+                "number4" : "alertBox('메세지')"
+            },
+            "type": "js",
+            "hint": "알리다라는 영어를 뜻함"
+        },
+        {
+            "id" : 9,
+            "question" : "콘솔창의 데이터를 확인하고자 한다. 올바른 방법은?",
+            "answer": "console.log(데이터)",
+            "view" : {
+                "number1" : "console.log(데이터)",
+                "number2" : "console.data(데이터)",
+                "number3" : "console(데이터)",
+                "number4" : "log(데이터)"
+            },
+            "type": "js",
+            "hint": "콘솔로그"
+        }
+    ],
+    "LastUpdate": ["23.05.01"],
+    "ScoreImg" : [
+        {
+            "100": ""
+        }
+    ]
+}
